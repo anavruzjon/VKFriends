@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VKFriends</string>
+    <string name="authorization">Авторизоваться</string>
+    <string name="redirect_url">https://oauth.vk.com/blank.html</string>
+    <string name="auth_url">https://oauth.vk.com/authorize?client_id=%s&amp;display=page&amp;redirect_uri=%s&amp;response_type=token&amp;v=5.52</string>
+
+</resources>
